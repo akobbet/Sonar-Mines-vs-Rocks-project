@@ -1,5 +1,5 @@
 # Sonar Mines vs Rocks project
-This short report demonstrate a systematic process for working through Predictive Modeling problems that delivers above average results in Python
+This short report demonstrate a systematic process for working through classification Predictive Modeling problems that delivers above average results in Python
 
 
 The following is a 5-Step Systematic Process used:
