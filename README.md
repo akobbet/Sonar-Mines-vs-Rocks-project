@@ -5,9 +5,13 @@ This short report demonstrate a systematic process for working through Predictiv
 The following is a 5-Step Systematic Process:
 
 Define the Problem
+
 Prepare Data
+
 Spot Check Algorithms
+
 Improve Results
+
 Present Results
 
 
